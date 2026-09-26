@@ -1,0 +1,21 @@
+user_id,name,email,signup_date,city,age,gender
+1,Aarav Mehta,aarav.mehta@email.com,2023-01-15,Mumbai,28,Male
+2,Priya Sharma,priya.sharma@email.com,2023-02-03,Delhi,34,Female
+3,Rohan Verma,rohan.verma@email.com,2023-01-22,Bangalore,25,Male
+4,Sneha Iyer,sneha.iyer@email.com,2023-03-10,Chennai,30,Female
+5,Karan Kapoor,karan.kapoor@email.com,2023-04-05,Pune,41,Male
+6,Ananya Reddy,ananya.reddy@email.com,2023-02-18,Hyderabad,27,Female
+7,Vikram Nair,vikram.nair@email.com,2023-05-12,Kochi,36,Male
+8,Divya Menon,divya.menon@email.com,2023-03-28,Chennai,29,Female
+9,Arjun Singh,arjun.singh@email.com,2023-06-01,Jaipur,32,Male
+10,Kavya Pillai,kavya.pillai@email.com,2023-01-08,Trivandrum,24,Female
+11,Rahul Desai,rahul.desai@email.com,2023-07-15,Ahmedabad,38,Male
+12,Meera Joshi,meera.joshi@email.com,2023-04-22,Indore,26,Female
+13,Aditya Rao,aditya.rao@email.com,2023-08-09,Bangalore,31,Male
+14,Nisha Kulkarni,nisha.kulkarni@email.com,2023-05-30,Pune,33,Female
+15,Sameer Khan,sameer.khan@email.com,2023-09-14,Delhi,29,Male
+16,Pooja Gupta,pooja.gupta@email.com,2023-06-25,Mumbai,27,Female
+17,Manoj Pillai,manoj.pillai@email.com,2023-10-02,Chennai,35,Male
+18,Ritu Agarwal,ritu.agarwal@email.com,2023-07-08,Kolkata,30,Female
+19,Suresh Babu,suresh.babu@email.com,2023-11-19,Coimbatore,42,Male
+20,Lakshmi Narayan,lakshmi.narayan@email.com,2023-08-27,Chennai,28,Female
