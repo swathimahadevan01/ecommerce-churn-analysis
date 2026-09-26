@@ -36,5 +36,5 @@ The dashboard tracks four core KPIs (Total Revenue, Total Customers, Total Order
 
 ## How to Reproduce
 1. Import the three CSVs into a PostgreSQL database using the schema in this repo
-2. Run the analytical SQL queries (see `/sql` folder — coming soon) to reproduce the churn and revenue insights
+2. Run the analytical SQL queries in [`queries.sql`](queries.sql) to reproduce the churn and revenue insights
 3. Connect Power BI Desktop to the PostgreSQL database and load the tables to rebuild the dashboard
